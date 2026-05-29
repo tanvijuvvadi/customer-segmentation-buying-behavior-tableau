@@ -1,4 +1,4 @@
-# Customer Segmentation & Buying Behavior Dashboard
+# Customer Segmentation & Buying Behavior Dashboard 📊 👥
 
 ## Project Overview
 
