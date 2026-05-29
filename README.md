@@ -180,4 +180,3 @@ This dashboard helps businesses:
 * Real-time dashboard updates
 * Advanced customer lifetime value analysis
 
-GitHub: Add Your GitHub Profile Link
